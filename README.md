@@ -1,4 +1,5 @@
 Project Description: Olpeo Price Tracker App
+
 Overview
 The Price Tracker App is a Python-based desktop application developed using the Tkinter library. The primary functionality of the app is to allow users to sign up and log in, enter URLs for products they want to track, and view details that show if the price has dropped on the entered products. All user and product data are stored in a local database.
 
